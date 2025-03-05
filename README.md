@@ -3,6 +3,9 @@
 This **Spring Boot Microservices** project allows users to create quizzes, retrieve quizzes, and submit quizzes.  
 It is composed of several microservices, including **Quiz-Service, Question-Service, Eureka Server, API Gateway, and Config Server**.
 
+It was initially developed as a **monolithic application** and later converted into a **microservices architecture**.  
+You can find the original **monolithic application** here: [Monolithic Version](https://github.com/avisharma7/quizApp).
+
 
 ---
 
